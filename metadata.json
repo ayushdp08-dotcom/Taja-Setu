@@ -1,0 +1,8 @@
+{
+  "name": "StockSmart AI — Inventory Management",
+  "description": "Smarter Inventory. Fresher Products. Better Profits. AI-powered inventory partner for grocery, café, restaurant, and bakery with real-time freshness intelligence, phone OTP, demand forecasting, and smart reordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
